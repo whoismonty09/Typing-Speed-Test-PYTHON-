@@ -50,4 +50,4 @@ python typing_speed_test.py
 ---
 
 ## 👨‍💻 Author
-Developed by Your Name
+Developed by Monty
