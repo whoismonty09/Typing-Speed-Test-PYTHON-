@@ -11,7 +11,7 @@ sentences = [
 
 sentence = random.choice(sentences)
 
-print("Typing Speed Test")
+print("Typing Speed Test developed by Monty")
 print("Type the following sentence:")
 print(sentence)
 
